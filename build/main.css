@@ -12,11 +12,11 @@
   color: white;
 }
 
+#hero img {
+  width: 100%;
+}
+
 nav {
   display: none;
 }
 
-
-/* img {
-  width: 100px;
-} */
